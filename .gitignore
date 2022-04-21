@@ -19,7 +19,7 @@
 [Rr]eleases/
 x64/
 x86/
-build/
+build/*
 bld/
 bin/
 Bin/
@@ -248,3 +248,5 @@ tasks.xml
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+!build/rollup.config.js
